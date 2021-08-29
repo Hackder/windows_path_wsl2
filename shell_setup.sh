@@ -1,4 +1,4 @@
-alias reload-path="zsh $HOME/windows_path_wsl2/shell_setup.sh"
+alias change-path="zsh -c $HOME/windows_path_wsl2/run.sh"
 
 p="$PATH"
 
