@@ -28,6 +28,6 @@ Done! Reload your terminal session for this to take effect.
 # Usage
 
 ```bash
-./run.sh
+change-path
 ```
 
