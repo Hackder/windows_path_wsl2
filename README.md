@@ -12,7 +12,7 @@ This utility allows you to specificaly chose which entries from windows path you
 
 ```bash
 cd ~
-git clone https://git
+git clone https://github.com/Hackder/windows_path_wsl2.git
 cd windows_path_wsl2
 python3 -m pip install -r requirements.txt
 ```
