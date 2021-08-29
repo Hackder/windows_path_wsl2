@@ -1,0 +1,9 @@
+autopep8==1.5.7
+prompt-toolkit==1.0.14
+pycodestyle==2.7.0
+Pygments==2.10.0
+PyInquirer==1.0.3
+regex==2021.8.28
+six==1.16.0
+toml==0.10.2
+wcwidth==0.2.5
